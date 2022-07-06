@@ -151,6 +151,101 @@ body{
     text-align: justify;
     color: #30336b;
 }
-    
-
+.hashtag{
+    text-align: center;
+    color: #0057B8;
+    margin: 200px 400px 0 400px;
+    font-size: 50px;
+    padding: 20px 40px;
+    background-color:#FFD700;
+    border: 50px solid #0057B8;
+}
+.fund-raise-section{
+    display: flex;
+    margin: 100px 0;
+}
+.fund-raise-msg-container{
+    width: 40%;
+    margin: 0 50px 0 250px;
+    padding: 20px 0 0 30px;
+    box-shadow: -15px 0  #30336b, 0 5px 10px #747d8c, 5px 0 10px #747d8c, 0 -5px 10px #747d8c;
+    border-radius: 10px;
+    background-color: #eb4d4b;
+}
+.fund-raise-msg-container h2{
+    color: #30336b;
+    font-weight: bolder;
+}
+.fund-raise-msg-container p{
+    text-align: justify;
+    width: 400px;
+    margin-bottom: 25px;
+    color: antiquewhite;
+}
+.fund-raise-img-container{
+    width: 40%;
+    margin-right: 250px;
+}
+.fund-raise-img-container img{
+    width: 400px;
+    height: 280px;
+    float: right;
+    box-shadow: -5px 0 10px #747d8c, 0 5px 10px #747d8c, 15px 0  #eb4d4b, 0 -5px 10px #747d8c;
+    border-radius: 10px;
+}
+.fund-raise-msg-container a{
+    text-decoration: none;
+    padding: 5px 10px;
+    border-radius: 5px;
+    color: #eb4d4b;
+    background-color: #30336b;
+}
+.fund-raise-msg-container a:hover{
+    background-color: antiquewhite;
+    color: #30336b;
+}
+.fund-raise-section2{
+    display: flex;
+    margin: 100px 0;
+}
+.fund-raise-img-container2{
+    width: 40%;
+    margin-left: 250px;
+}
+.fund-raise-img-container2 img{
+    width: 400px;
+    height: 280px;
+    float: left;
+    box-shadow: -15px 0  #eb4d4b, 0 5px 10px #747d8c, 5px 0 10px #747d8c, 0 -5px 10px #747d8c;
+    border-radius: 10px;
+}
+.fund-raise-msg-container2{
+    width: 40%;
+    margin: 0 250px 0 50px;
+    padding: 20px 0 0 30px;
+    box-shadow: -5px 0 10px #747d8c, 0 5px 10px #747d8c, 15px 0 #30336b, 0 -5px 10px #747d8c;
+    border-radius: 10px;
+    background-color: #eb4d4b;
+}
+.fund-raise-msg-container2 h2{
+    color: #30336b;
+    font-weight: bolder;
+}
+.fund-raise-msg-container2 p{
+    text-align: justify;
+    width: 400px;
+    margin-bottom: 25px;
+    color: antiquewhite;
+}
+.fund-raise-msg-container2 a{
+    text-decoration: none;
+    padding: 5px 10px;
+    border-radius: 5px;
+    color: #eb4d4b;
+    background-color: #30336b;
+}
+.fund-raise-msg-container2 a:hover{
+    background-color: antiquewhite;
+    color: #30336b;
+}
 
