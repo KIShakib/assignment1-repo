@@ -46,3 +46,111 @@ body{
     color: #f5f6fa;
     background-color: tomato;
 }
+.donate-iteam-section{
+    margin-top: 150px;
+}
+.donate-head h3{
+    text-align: center;
+    font-size: 40px;
+    color: #eb4d4b;
+    margin-bottom: 0; 
+}
+.donate-head p{
+    text-align: center;
+    color: #30336b;
+}
+.form-section{
+    margin: 70px 0 50px 0;
+}
+.donate-submit{
+    display: flex;
+    margin-left: 12%;
+}
+.donate-submit h4{
+    display: inline;
+    font-size: 20px;
+    justify-content: center;
+}
+.radio{
+    padding: 50px 80px;
+    background-color: antiquewhite;
+    margin: 0 20px;
+}
+.medicine{
+    border: 5px solid #30336b;
+    background-color: #eb4d4b;
+}
+#button{
+    display: block;
+    margin-top: 30px;
+}
+.submit-text{
+    width: 765px;
+    border: none;
+    border-bottom: 2px solid #30336b;
+    margin-top: 40px;
+    margin-left: 24.5%;
+    text-align: center;
+}
+.submit-button{
+    margin-top: 30px;
+    margin-left: 43%;
+    padding: 10px 20px;
+    font-weight: 900;
+    color: #30336b;
+    background-color: #eb4d4b;
+    border: none;
+    border-radius: 5px;
+}
+.submit-button:hover{
+    background-color: #30336b;
+    color: #eb4d4b;
+    font-weight: 900;
+}
+.donate-plan{
+    margin: 155px 0 100pxgit 0;
+}
+.plan-text-container h3{
+    text-align: center;
+    left: 0.8;
+    font-size: 40px;
+    color: #eb4d4b;
+    margin: 10px 0 20px 0;
+}
+.plan-text-container p{
+    text-align: center;
+    color: #30336b;
+    margin: 0 0 80px 0;
+}
+.plan-container{
+    display: flex;
+}
+.child-container{
+    width: 15%;
+    margin: 0 2%;
+    padding: 0 50px;
+    background-color: antiquewhite;
+    border-radius: 10px;
+}
+.child-container:hover{
+    background-color: #eb4d4b;
+}
+.child-container img{
+    display: block;
+    padding-top: 20px;
+    width: 120px;
+    height: 100px;
+    margin: 0 auto;
+}
+.child-container h5{
+    text-align: center;
+    font-size: 20px;
+    color: #30336b;
+}
+.child-container p{
+    text-align: justify;
+    color: #30336b;
+}
+    
+
+
